@@ -7,11 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Coming from a background of working in distribution and having spent a lot of time doing warehouse work I have always noted the importance of keeping a well-organized inventory.   
+	What I am putting together is an application that authorizes you to have your very own user account with a versatile inventory structure. This allows you to keep track of any object you deem necessary. 
+
 ### Features
-Include Features here
+User Authorization and Login – Users will be able to create their own account.
+
+Create Inventory – Users will have the ability to create and modify their own inventory.  
+
+Search Function – Users can search through the inventory they create to find items quickly.
+
 ### Technologies
-Include Technologies here
+Java
+JavaScript
+Angular
+Spring Boot
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will be learning the Angular framework and JavaScript front-end for this project.
