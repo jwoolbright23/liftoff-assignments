@@ -15,7 +15,7 @@ User Authorization and Login – Users will be able to create their own account.
 
 Create Inventory – Users will have the ability to create and modify their own inventory.  
 
-Search Function – Users can search through the inventory they create to find items quickly.
+Database – Users will be able to access all of their inventory via a database.
 
 ### Technologies
 Java
